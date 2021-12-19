@@ -1,0 +1,39 @@
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\bin\Debug\VTYS PROJE1.exe.config
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\bin\Debug\VTYS PROJE1.exe
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\bin\Debug\VTYS PROJE1.pdb
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\bin\Debug\Npgsql.dll
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\bin\Debug\System.Buffers.dll
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\bin\Debug\System.Memory.dll
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\bin\Debug\System.Text.Json.dll
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\bin\Debug\System.Threading.Channels.dll
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\bin\Debug\System.ValueTuple.dll
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\bin\Debug\Npgsql.xml
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\bin\Debug\System.Buffers.xml
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\bin\Debug\System.Memory.xml
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\bin\Debug\System.Text.Json.xml
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\bin\Debug\System.Threading.Channels.xml
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\bin\Debug\System.ValueTuple.xml
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\obj\Debug\VTYS PROJE1.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\obj\Debug\VTYS_PROJE1.Form1.resources
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\obj\Debug\VTYS_PROJE1.Properties.Resources.resources
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\obj\Debug\VTYS PROJE1.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\obj\Debug\VTYS PROJE1.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\obj\Debug\VTYS PROJE1.csproj.CopyComplete
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\obj\Debug\VTYS PROJE1.exe
+C:\Users\burak\source\repos\VTYS PROJE1\VTYS PROJE1\obj\Debug\VTYS PROJE1.pdb
